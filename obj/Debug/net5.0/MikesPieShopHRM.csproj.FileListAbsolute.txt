@@ -1,0 +1,16 @@
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.exe
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.deps.json
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.runtimeconfig.json
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.runtimeconfig.dev.json
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.dll
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\ref\MikesPieShopHRM.dll
+C:\Users\miker\source\repos\MikesPieShopHRM\bin\Debug\net5.0\MikesPieShopHRM.pdb
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.AssemblyInfo.cs
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.dll
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\ref\MikesPieShopHRM.dll
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.pdb
+C:\Users\miker\source\repos\MikesPieShopHRM\obj\Debug\net5.0\MikesPieShopHRM.genruntimeconfig.cache

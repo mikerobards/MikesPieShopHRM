@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace MikesPieShopHRM
 {
@@ -6,21 +7,77 @@ namespace MikesPieShopHRM
     {
         static void Main(string[] args)
         {
-            string firstName = "Bethany";
-            string lastName = "Smith";
+            Console.WriteLine("Enter the wage: ");
+            string wage = Console.ReadLine();
 
-            string fullName = "Bethany Smith";
+            //int wageValue = int.Parse(wage);
 
-            string noValueString = null;
-            string s;
-
-            s = firstName;
-
-            var userName = "BethanyS";
-
+            int wageValue;
+            if (int.TryParse(wage, out wageValue))
+                Console.WriteLine("Parsing success: " + wageValue);
+            else
+                Console.WriteLine("Parsing failed");
 
 
 
+            //string firstName = "Bethany";
+            //string lastName = "Smith";
+
+            //StringBuilder builder = new StringBuilder();
+
+            //builder.Append("Last name:");
+            //builder.AppendLine(lastName);
+            //builder.Append("First name:");
+            //builder.Append(firstName);
+            //string result = builder.ToString();
+
+            //Console.WriteLine(result);
+
+            //string fullName = firstName + " " + lastName;
+            //string employeeID = string.Concat(firstName, lastName);
+
+            //string empId = firstName.ToLower() + "-" + lastName.Trim().ToLower();
+
+            //int length = empId.Length;
+
+            //string subString = fullName.Substring(1, 3);
+            //Console.WriteLine($"Characters 2 to 4 of fullName are {subString}");
+
+
+            //string fullName = "Bethany Smith";
+
+            //string noValueString = null;
+            //string s;
+
+            //s = firstName;
+
+            //var userName = "BethanyS";
+
+            //string displayName = $"Welcome!\n{firstName}\t{lastName}";
+
+            //Console.WriteLine(displayName);
+
+            //string verbatePath = @"C:\data\employeelist.xlsx";
+
+            //string dblQuotes = "My name is \"Harry\"";
+
+            //Console.WriteLine(dblQuotes);
+
+            //string name = "Bethany";
+            //string anotherName = name;
+
+            //name += " Smith";
+
+            //Console.WriteLine("Name: " + name);
+            //Console.WriteLine("Another name: " + anotherName);
+
+            //string lowerCase = name.ToLower();
+
+
+
+
+
+            
             Console.ReadLine();
         }
 
